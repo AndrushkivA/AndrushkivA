@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Andrew Andrushkiv
-- 👀 I’m interested in becoming a developer;
-- 🌱 I’m currently learning qa automation;
 - 📫 How to reach me: andrushkivdrew@gmail.com
 
 <!---
